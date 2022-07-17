@@ -1,5 +1,4 @@
 import React from 'react'
-import NavigationBar from '../components/NavigationBar'
 import Iframe from 'react-iframe'
 
 export default function Murat() {
